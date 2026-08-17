@@ -1,3 +1,4 @@
+
 # car_price_prediction
 Bu projede , ikinci el araçların özelliklerini kullanarak araç fiyat tahmini yapılmıştır.
 ## Proje Hakkında
@@ -79,6 +80,15 @@ Projede aşağıdaki görselleştirmeler kullanılmıştır:
 - Gerçek ve tahmin edilen fiyatların karşılaştırılması
 - Tahmin hatalarının dağılımı
 - Özellik önemleri (Feature Importance)
+
+<img width="850" height="547" alt="indir" src="https://github.com/user-attachments/assets/9b0aecfd-fb8d-4b6b-8928-5f671eff62cb" />
+
+<img width="868" height="547" alt="indir (1)" src="https://github.com/user-attachments/assets/5b6e70c0-e1f5-4755-af32-01e6816bb8cc" />
+
+<img width="1012" height="624" alt="indir (2)" src="https://github.com/user-attachments/assets/cd5f77c5-2dc0-46ea-b1dc-d7ec25609657" />
+
+
+
 
 ## Kullanılan Teknolojiler
 
